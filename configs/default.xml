@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature name="ejemplocajeroautomatico"/>
+	<feature name="Saldo"/>
+	<feature name="Consultar"/>
+	<feature name="Retirar"/>
+	<feature name="Reducido"/>
+	<feature name="Movimientos"/>
+	<feature name="Transferencia"/>
+	<feature name="Consignacion"/>
+	<feature name="Listado"/>
+	<feature name="Auditoria"/>
+</configuration>
